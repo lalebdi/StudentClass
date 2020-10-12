@@ -1,1 +1,3 @@
 # StudentClass
+
+template
